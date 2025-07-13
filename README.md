@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Andy Nguyen! 👋</h1>
 
 ## 💫 About Me:
-I am a Master's student at Towson University, about to graduate this Spring 2025 🎓<br><br>Currently, a Data Analyst at CareFirst BlueCross BlueShield<br><br>Always curious and excited to learn new technologies! 🧑🏻‍💻<br><br>I enjoy hiking, trying out new food, and playing the piano in my free time 🎹🥾🥪
+I am a recent graduate at Towson University!🎓<br><br>Currently, an Associate Data Analyst at CareFirst BlueCross BlueShield<br><br>Always curious and excited to learn new technologies! 🧑🏻‍💻<br>
 
 ## 🌐 Get to Know Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andy-nguyen1/)
